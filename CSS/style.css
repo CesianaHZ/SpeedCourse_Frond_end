@@ -1,0 +1,7 @@
+.speedCourse-Select:focus {
+    border-color: #007bff;
+}
+.speedCourse-Select option:hover {
+    background-color: #f8f9fa;
+}
+
